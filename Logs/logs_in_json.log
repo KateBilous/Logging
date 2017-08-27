@@ -1,0 +1,8 @@
+logs.py:20:2017-08-27 12:15:00,721:1428:MainProcess:Some login information
+logs.py:20:2017-08-27 12:28:23,658:10252:MainProcess:[{'status': '', 'job_lunch_id': '4 ', 'job_id': '4', ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ' '}]:
+logs.py:20:2017-08-27 12:47:42,842:11160:MainProcess:[{'status': '', 'job_lunch_id': '4 ', 'job_id': '4', ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ' '}]:
+logs.py:20:2017-08-27 12:47:52,546:10048:MainProcess:[{'status': '', 'job_lunch_id': '4 ', 'job_id': '4', ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ' '}]:
+logs.py:20:2017-08-27 12:49:30,742:10320:MainProcess:[{'status': '', 'job_lunch_id': '4 ', 'job_id': '4', ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ' '}]:
+logs.py:20:2017-08-27 12:53:23,500:4620:MainProcess:[{'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}]:
+logs.py:20:2017-08-27 12:53:32,102:10044:MainProcess:[{'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}]:
+logs.py:20:2017-08-27 12:58:26,704:6976:MainProcess:[{'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}]:
