@@ -3,7 +3,7 @@ from logging import Formatter, FileHandler, StreamHandler, getLogger, INFO
 from json import loads, dumps
 
 
-# logging.basicConfig(filename= 'test.log', level=logging.DEBUG)
+
 
 
 def logger(name, handler, recordfields=[], level=INFO):

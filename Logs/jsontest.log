@@ -1,0 +1,2 @@
+2017-08-29 14:39:36,503 Test_log INFO: Dumped:  {"age": 42, "data": [[[1, "2", true]]], "name": "Alex", "address": {"city": "Odessa", "street": "Deribasovskaya"}}
+2017-08-29 14:40:55,546 Test_log INFO: Dumped:  {"age": 42, "data": [[[1, "2", true]]], "name": "Alex", "address": {"city": "Odessa", "street": "Deribasovskaya"}}

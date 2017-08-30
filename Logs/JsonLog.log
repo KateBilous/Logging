@@ -1,0 +1,65 @@
+2017-08-29 15:45:11,230 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 15:45:41,760 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 15:46:06,907 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 15:46:42,028 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 15:46:53,627 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 15:47:03,016 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 15:48:14,897 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 15:48:56,950 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 15:49:11,730 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 15:49:49,170 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 15:50:02,842 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 15:51:50,210 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 15:52:33,920 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 16:04:24,453 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 16:05:48,303 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 16:06:16,901 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 16:06:43,880 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 16:07:45,908 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 16:07:57,825 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 16:13:31,211 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 16:13:57,414 __main__ INFO: Inserted:  {'status': '', 'job_lunch_id': 4, 'job_id': 7, ' time': '', 'output': '', 'application_lunch_id': '', 'other_notes': '', ' application_id': ''}
+2017-08-29 16:14:14,045 __main__ INFO: Inserted:  {
+    "status":"",
+    "job_lunch_id":4,
+    "job_id":7,
+    " time":"",
+    "output":"",
+    "application_lunch_id":"",
+    "other_notes":"",
+    " application_id":""
+}
+2017-08-29 16:15:00,582 __main__ INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:15:52,950 __main__ INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:16:34,926 __main__ INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:17:15,875 __main__ INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:17:47,257 __main__ INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:18:03,677 __main__ INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:25:15,980 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:27:09,072 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:28:09,016 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:28:23,138 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:28:44,301 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:30:07,447 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:31:47,244 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:43:24,836 __main__ INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:44:02,276 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:45:08,151 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:47:31,993 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:48:24,213 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:51:58,967 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:53:06,655 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:54:07,017 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:54:27,078 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:55:30,352 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-29 16:57:15,059 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-30 09:37:32,723 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-30 09:48:09,289 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-30 09:49:00,960 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-30 09:52:55,595 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-30 09:58:02,028 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-30 10:01:15,282 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-30 10:01:25,769 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-30 10:01:37,427 logs INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-30 10:17:17,894 __main__ INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
+2017-08-30 10:17:41,608 __main__ INFO: Inserted:  {"status": "", "job_lunch_id": 4, "job_id": 7, " time": "", "output": "", "application_lunch_id": "", "other_notes": "", " application_id": ""}
